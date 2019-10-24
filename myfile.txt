@@ -1,0 +1,15 @@
+S,l14-4304,loki,Zainab Iftikhar,Juveneille,123-321-456
+C,l12-3298,yolo,Matt Corner,22 London,123-421-334
+L,l11-2332,lol,Adam Sandy,22 Harpershire,342-111-343
+#
+B,AHP,Harry Potter,J K Rowling,Literature,issued
+B,BBFG,BFG,Roald Dahl,Literature,onhold
+B,AMTD,Matilda,Roald Dahl,Literature,issued
+D,ADLD,DLD Audio,Henry Shakes,Physics,referenced
+#
+l14-4304,AHP,03-10-2016,not returned
+l14-4304,BBFG,03-10-2016,returned
+l11-2332,AMTD,05-10-2016,returned
+#
+l12-3298,BBFG,13-10-2016,not issued
+#
